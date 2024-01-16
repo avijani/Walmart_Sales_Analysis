@@ -45,33 +45,47 @@ Leverage specific formulas for Cost of Goods Sold (COGS), VAT, total revenue, gr
 
 # Generic Question:
 
-How many unique cities does the data cover?
+1.How many unique cities does the data cover?
 
 # Product:
 
-What is the most common payment method?
-What is the most selling product line?
-What is the total revenue by month?
-What month had the largest COGS?
-What product line had the largest revenue?
-What is the city with the largest revenue?
-What product line had the largest VAT?
-Evaluate product lines based on sales performance.
-Which branch sold more products than the average?
+1.What is the most common payment method?
+
+2.What is the most selling product line?
+
+3.What is the total revenue by month?
+
+4.What month had the largest COGS?
+
+5.What product line had the largest revenue?
+
+6.What is the city with the largest revenue?
+
+7.What product line had the largest VAT?
+
+8.Evaluate product lines based on sales performance.
+
+9.Which branch sold more products than the average?
 
 # Sales:
 
-Which customer type brings the most revenue?
-Which city has the largest tax percent/VAT?
-Which customer type pays the most in VAT?
+1.Which customer type brings the most revenue?
+
+2.Which city has the largest tax percent/VAT?
+
+3.Which customer type pays the most in VAT?
 
 # Customer:
 
-How many unique customer types and payment methods exist?
-What is the most common customer type?
-Which customer type buys the most?
-What is the gender distribution per branch?
-At which time of the day do customers give the highest ratings?
+1.How many unique customer types and payment methods exist?
+
+2.What is the most common customer type?
+
+3.Which customer type buys the most?
+
+4.What is the gender distribution per branch?
+
+5.At which time of the day do customers give the highest ratings?
 
 # Conclusion:
 
