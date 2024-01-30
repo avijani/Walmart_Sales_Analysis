@@ -1,6 +1,6 @@
 # Project Overview:
 
-This project aims to thoroughly explore Walmart Sales data obtained from the Kaggle Walmart Sales Forecasting Competition. The primary objective is to gain insights into branch and product performance, analyze sales trends, and understand customer behavior. The overarching goal is to enhance and optimize sales strategies based on the dataset findings.
+This project aims to thoroughly explore Walmart Sales data obtained from the Kaggle Walmart Sales Forecasting Competition in MySQL. The primary objective is to gain insights into branch and product performance, analyze sales trends, and understand customer behavior. The overarching goal is to enhance and optimize sales strategies based on the dataset findings.
 
 # Dataset Source:
 
